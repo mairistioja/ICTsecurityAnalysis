@@ -1,4 +1,4 @@
-Näitaja;Tegevusala;Tööga hõivatud isikute arv;DIM5;Turvalisus;TIME;Vaatlusperiood;ValueStr;Value %
+Näitaja;Tegevusala;Tööga hõivatud isikute arv;DIM5;Turvalisus;TIME;Vaatlusperiood;ValueStr;Osatähtsus;
 Ettevõtete osatähtsus, %;Tegevusalad kokku;Kokku;1;Tugev paroolide autentimine;2019;2019;61.1;61,1
 Ettevõtete osatähtsus, %;Tegevusalad kokku;Kokku;2;Värskeimate tarkvara versioonide kasutamine;2019;2019;70.7;70,7
 Ettevõtete osatähtsus, %;Tegevusalad kokku;Kokku;3;Biomeetrilise meetodi kasutamine kasutaja tuvastamiseks, autentimiseks;2019;2019;6.6;6,6
